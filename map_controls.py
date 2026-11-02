@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#This script was built with extensive help from LLMs
 """Extract failed OpenSCAP rules and map them to NIST 800-53 controls."""
 import csv
 import sys
